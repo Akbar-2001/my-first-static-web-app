@@ -102,7 +102,7 @@ span{
   padding: 0;
   font-size: 100px;
   z-index: 1;
-  opacity: 0.4;
+  opacity: 0.6;
   color: #222;
   font-size: 24px;
 }
@@ -152,4 +152,16 @@ span{
 }
 .container1 label span{
   color: #222;
+}
+.footer{
+  width: 100%;
+  left: 0%;
+  bottom: 0%;
+  opacity:0.9;
+  padding: 10px;
+}
+.row p{
+  text-align: center;
+  font-family: Georgia (serif);
+  margin-right: 10px;
 }
